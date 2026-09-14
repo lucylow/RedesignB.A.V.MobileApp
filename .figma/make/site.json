@@ -1,0 +1,10 @@
+{
+  "description": "An immersive physics learning app blending interactive simulations, AI tutoring, and problem-solving tools to inspire discovery and mastery for students.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
